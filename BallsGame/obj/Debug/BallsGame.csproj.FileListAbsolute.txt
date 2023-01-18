@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\BallsGame\BallsGame\bin\Debug\BallsGame.exe.config
+C:\Users\Admin\Desktop\BallsGame\BallsGame\bin\Debug\BallsGame.exe
+C:\Users\Admin\Desktop\BallsGame\BallsGame\bin\Debug\BallsGame.pdb
+C:\Users\Admin\Desktop\BallsGame\BallsGame\obj\Debug\BallsGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BallsGame\BallsGame\obj\Debug\BallsGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BallsGame\BallsGame\obj\Debug\BallsGame.window.resources
+C:\Users\Admin\Desktop\BallsGame\BallsGame\obj\Debug\BallsGame.Properties.Resources.resources
+C:\Users\Admin\Desktop\BallsGame\BallsGame\obj\Debug\BallsGame.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BallsGame\BallsGame\obj\Debug\BallsGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BallsGame\BallsGame\obj\Debug\BallsGame.exe
+C:\Users\Admin\Desktop\BallsGame\BallsGame\obj\Debug\BallsGame.pdb
