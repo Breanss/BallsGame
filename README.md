@@ -8,9 +8,10 @@ The game is to arrange the balls in a row. The player arranges five (or more) ba
 * .NET Framework 4.7.2
 
 ## Graphic interface
+
 <p align="center">
-  <img src="./BallsGame/Image/2.png />
+  <img src="./BallsGame/Image/2.png" />
 </p>
 <p align="center">
-  <img src="./BallsGame/Image/1.png />
+  <img src="./BallsGame/Image/1.png" />
 </p>
